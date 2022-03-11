@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehrdad-mixtape
 My name is  Mehrdad Arman Nasab.
-- 💞️ I love Computers ! Especially Computer Networks and Linux.
+- 💞️ I love Computers ! Especially Computer Networks, Linux and micro-controllers.
 I'm really excited to learn about computer enginnering and do my best.
 - 🌱 I love Python, Linux, C, RaspberryPi family, STM32 family, Cisco networks, Cloud,...
 <!---
