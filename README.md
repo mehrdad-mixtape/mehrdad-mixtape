@@ -22,9 +22,13 @@ I'm really excited to learn about computer enginnering and do my best.
 
 #### Social Media: 
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)[LinkedIn](http://www.linkedin.com/in/mehrdad-arman-nasab-5357b2193)
-![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail)[Gmail](mehrdad0011998@gmail.com) 
+
+![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail)[Gmail](mehrdad0011998@gmail.com)
+
 ![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)[Instagram](https://www.instagram.com/armanmehrdad/)
+
 ![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=Telegram)[Telegram](https://t.me/M1D9A9N8)
+
 <!---
 mehrdad-mixtape/mehrdad-mixtape is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
