@@ -16,7 +16,7 @@ I'm really excited to learn about computer enginnering and do my best.
 ![Cisco](https://img.shields.io/badge/-Cisco-000?&logo=Cisco)
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-000?&logo=RaspberryPi)
 
-[![Mehrdad Arman Github Status](https://github-readme-stats.vercel.app/api?username=mehrdad-mixtape&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Mehrdad Arman Github Status](https://github-readme-stats.vercel.app/api?username=mehrdad-mixtape&count_private=true&show_icons=true&theme=onedark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Mehrdad Arman Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrdad-mixtape&hide=html&layout=compact&line_height=51&langs_count=9&exclude_repo=comp426,Redventures-Movie-Quotes&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
