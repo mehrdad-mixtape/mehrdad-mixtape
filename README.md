@@ -18,7 +18,7 @@ I'm really excited to learn about computer enginnering and do my best.
 
 [![Mehrdad Arman Github Status](https://github-readme-stats.vercel.app/api?username=mehrdad-mixtape&count_private=true&show_icons=true&theme=onedark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Mehrdad Arman Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrdad-mixtape&hide=html&layout=compact&line_height=51&langs_count=9&exclude_repo=comp426,Redventures-Movie-Quotes&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Mehrdad Arman Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrdad-mixtape&hide=html&layout=compact&line_height=51&langs_count=9&exclude_repo=comp426,Redventures-Movie-Quotes&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Social Media: 
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)[LinkedIn](http://www.linkedin.com/in/mehrdad-arman-nasab-5357b2193)
