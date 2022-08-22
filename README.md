@@ -38,13 +38,13 @@ I'm really excited to learn about computer enginnering and do my best.
     <img src="https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn" />
 </a>
 <a href="mehrdad0011998@gmail.com">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?&logo=Gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-000?&logo=Gmail" />
 </a>
 <a href="https://www.instagram.com/armanmehrdad/">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?&logo=Instagram" />
+    <img src="https://img.shields.io/badge/-Instagram-000?&logo=Instagram" />
 </a>
 <a href="https://t.me/M1D9A9N8">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?&logo=Telegram" />
+    <img src="https://img.shields.io/badge/-Telegram-000?&logo=Telegram" />
 </a>
 <!---
 mehrdad-mixtape/mehrdad-mixtape is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
