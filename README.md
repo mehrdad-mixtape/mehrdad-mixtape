@@ -19,7 +19,7 @@ I'm really excited to learn about computer enginnering and do my best.
 -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,neovim,pycharm,bash,linux,raspberrypi,python,c,cpp,html,django,mongo,github,docker" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,neovim,bash,linux,raspberrypi,python,c,cpp,html,django,flask,mongo,github,stackoverflow,docker" />
   </a>
 </p>
 
@@ -28,34 +28,11 @@ I'm really excited to learn about computer enginnering and do my best.
 [![Mehrdad Arman Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrdad-mixtape&hide=html&layout=compact&line_height=51&langs_count=9&exclude_repo=comp426,Redventures-Movie-Quotes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Social Media: 
-<!--![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)[LinkedIn](http://www.linkedin.com/in/mehrdad-arman-nasab-5357b2193)
-
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)[LinkedIn](http://www.linkedin.com/in/mehrdad-arman-nasab-5357b2193)
 ![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail)[Gmail](mehrdad0011998@gmail.com)
-
 ![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)[Instagram](https://www.instagram.com/armanmehrdad/)
-
 ![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=Telegram)[Telegram](https://t.me/M1D9A9N8)
--->
-<p align="left">
-  <a href="http://www.linkedin.com/in/mehrdad-arman-nasab-5357b2193">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-<p align="left">
-  <a href="mehrdad0011998@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://www.instagram.com/armanmehrdad/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://t.me/M1D9A9N8">
-    <img src="https://skillicons.dev/icons?i=telegram" />
-  </a>
-</p>
+
 <!---
 mehrdad-mixtape/mehrdad-mixtape is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
