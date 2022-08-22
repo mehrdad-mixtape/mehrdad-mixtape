@@ -7,7 +7,7 @@ I'm really excited to learn about computer enginnering and do my best.
 
 > "Life is MixTape! Just record your all moments."
 
-#### My Experiences ✨:
+<!--#### My Experiences ✨:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
@@ -15,10 +15,10 @@ I'm really excited to learn about computer enginnering and do my best.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Cisco](https://img.shields.io/badge/-Cisco-000?&logo=Cisco)
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-000?&logo=RaspberryPi)
-
+-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,bash,linux,raspberrypi,st,python,django,mongo,c,cpp,github,cisco" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,bash,linux,raspberrypi,python,c,cpp,html,django,mongo,github,docker" />
   </a>
 </p>
 
