@@ -19,7 +19,12 @@ I'm really excited to learn about computer enginnering and do my best.
 -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,neovim,bash,linux,raspberrypi,python,c,cpp,html,django,flask,mongo,github,stackoverflow,docker" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,neovim,bash,linux,raspberrypi,python,c" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,html,django,flask,mongo,github,stackoverflow,docker" />
   </a>
 </p>
 
