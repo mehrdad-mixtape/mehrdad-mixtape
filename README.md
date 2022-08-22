@@ -16,9 +16,9 @@ I'm really excited to learn about computer enginnering and do my best.
 ![Cisco](https://img.shields.io/badge/-Cisco-000?&logo=Cisco)
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-000?&logo=RaspberryPi)
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,bash,linux,raspberrypi,stm32,python,django,mongo,c,cpp,github" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,bash,linux,raspberrypi,stm,python,django,mongo,c,cpp,github.cisco" />
   </a>
 </p>
 
