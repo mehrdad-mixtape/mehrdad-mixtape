@@ -16,6 +16,17 @@ I'm really excited to learn about computer enginnering and do my best.
 ![Cisco](https://img.shields.io/badge/-Cisco-000?&logo=Cisco)
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-000?&logo=RaspberryPi)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,bash,linux,raspberrypi" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,mongo,c,cpp,github" />
+  </a>
+</p>
+
 [![Mehrdad Arman Github Status](https://github-readme-stats.vercel.app/api?username=mehrdad-mixtape&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Mehrdad Arman Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrdad-mixtape&hide=html&layout=compact&line_height=51&langs_count=9&exclude_repo=comp426,Redventures-Movie-Quotes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
