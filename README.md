@@ -36,9 +36,24 @@ I'm really excited to learn about computer enginnering and do my best.
 
 ![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=Telegram)[Telegram](https://t.me/M1D9A9N8)
 -->
-p align="left">
+<p align="left">
   <a href="http://www.linkedin.com/in/mehrdad-arman-nasab-5357b2193">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+<p align="left">
+  <a href="mehrdad0011998@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://www.instagram.com/armanmehrdad/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://t.me/M1D9A9N8">
+    <img src="https://skillicons.dev/icons?i=telegram" />
   </a>
 </p>
 <!---
