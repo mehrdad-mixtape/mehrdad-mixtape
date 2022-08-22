@@ -7,7 +7,8 @@ I'm really excited to learn about computer enginnering and do my best.
 
 > "Life is MixTape! Just record your all moments."
 
-<!--#### My Experiences ✨:
+#### My Experiences ✨:
+<!--
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
