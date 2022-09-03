@@ -7,7 +7,9 @@ I'm really excited to learn about computer enginnering and do my best.
 
 > "Life is MixTape! Just record your all moments."
 
-#### My Experiences ✨:
+#### **My Experiences** ✨:
+
+<div align="center">
 <!--
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -17,24 +19,31 @@ I'm really excited to learn about computer enginnering and do my best.
 ![Cisco](https://img.shields.io/badge/-Cisco-000?&logo=Cisco)
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-000?&logo=RaspberryPi)
 -->
-<p align="left">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,neovim,bash,linux,raspberrypi,python,c" />
   </a>
 </p>
-<p align="left">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,html,django,flask,mongo,github,stackoverflow,docker" />
   </a>
 </p>
 
-<img src="otherWorld.gif" style="width: 440px;"/>
-
 [![Mehrdad Arman Github Status](https://github-readme-stats.vercel.app/api?username=mehrdad-mixtape&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Mehrdad Arman Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrdad-mixtape&hide=html&layout=compact&line_height=51&langs_count=9&exclude_repo=comp426,Redventures-Movie-Quotes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Social Media:
+<img src="otherWorld.gif"
+style="width: auto;
+height: auto;
+border-radius: 2%;
+margin-left: 10px;
+margin-right: 10px;" />
+
+</div>
+
+### **Social Media:**
 <!--
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)[LinkedIn](http://www.linkedin.com/in/mehrdad-arman-nasab-5357b2193)
 ![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail)[Gmail](mehrdad0011998@gmail.com)
