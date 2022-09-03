@@ -34,12 +34,7 @@ I'm really excited to learn about computer enginnering and do my best.
 
 [![Mehrdad Arman Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrdad-mixtape&hide=html&layout=compact&line_height=51&langs_count=9&exclude_repo=comp426,Redventures-Movie-Quotes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="otherWorld.gif"
-style="width: auto;
-height: auto;
-border-radius: 2%;
-margin-left: 10px;
-margin-right: 10px;" />
+<img src="otherWorld.gif" style="width: auto; height: auto; border-radius: 2%; margin-left: 10px; margin-right: 10px;" />
 
 </div>
 
