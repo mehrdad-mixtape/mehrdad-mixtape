@@ -30,11 +30,11 @@ I'm really excited to learn about computer enginnering and do my best.
   </a>
 </p>
 
+<img src="index.gif" style="width: auto; height: auto; border-radius: 2%; margin-left: 10px; margin-right: 10px;" />
+
 [![Mehrdad Arman Github Status](https://github-readme-stats.vercel.app/api?username=mehrdad-mixtape&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Mehrdad Arman Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrdad-mixtape&hide=html&layout=compact&line_height=51&langs_count=9&exclude_repo=comp426,Redventures-Movie-Quotes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="index.gif" style="width: auto; height: auto; border-radius: 2%; margin-left: 10px; margin-right: 10px;" />
 
 </div>
 
